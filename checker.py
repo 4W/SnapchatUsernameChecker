@@ -87,7 +87,7 @@ def checkUser(username):
             f = open("available.txt", "a+")
             f.write(f"{username}\n")
             f.close()
-            sendWebhook(username)
+            #sendWebhook(username)
         elif "DELETED" in content:
             print(f"[DELETED / BANNED] {username}")
         else:
