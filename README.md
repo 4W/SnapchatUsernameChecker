@@ -12,6 +12,7 @@ This tool generates a new XSRF token per request this results that the tool will
 * Install the python modules (pip install [modulename])
 * Insert username list to usernames.txt
 * Insert proxies list to proxies.txt
+* A discord webhook function was added, you can use this by removing the comments on the `sendWebhook` function on line 90, and adding your webhook URL on line 23.
 * Click the run.bat file
 * Wait until program is finished
 * Open available.txt, for a list of available usernames
