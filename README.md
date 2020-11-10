@@ -3,7 +3,8 @@
 ### This tool can be used to check the availabillity for snapchat usernames.
 #### Tool was made using snapchats web API
 
-This tool generates a new XSRF token per request this results that the tool will never ratelimit, and you can use big lists. Although you do need proxies for the tool to work.
+This tool generates a new XSRF token per request this results that the program won't use ratelimit the XSRF token -- and you can use big lists. 
+You still need proxies to use this tool though.
 
 ### HOW TO USE:
 
